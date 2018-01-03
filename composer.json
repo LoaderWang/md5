@@ -1,6 +1,7 @@
 {
     "name": "loaderwang/md5",
     "description": "md5 for laravel",
+    "license":"MIT",
     "authors": [
         {
             "name": "loader wang",
