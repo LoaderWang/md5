@@ -1,0 +1,17 @@
+{
+    "name": "loaderwang/md5",
+    "description": "md5 for laravel",
+    "authors": [
+        {
+            "name": "loader wang",
+            "email": "loaderwang@foxmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "LoaderWang\\Md5\\":"src/"
+        }
+    }
+}
